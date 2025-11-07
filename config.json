@@ -1,0 +1,8 @@
+{
+  "model_name": "deepseek-ai/deepseek-coder-7b-instruct",
+  "device": "cuda",
+  "max_new_tokens": 200,
+  "torch_dtype": "float16",
+  "context_limit": 4,
+  "quantization": "4bit"
+}
